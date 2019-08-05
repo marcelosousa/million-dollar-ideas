@@ -15,7 +15,7 @@ So whether you are someone:
 - Looking for a team member; 
 - Looking for that smile of finding someone who had a similar idea than you;
 - Ready to be mind-blown by the ideas of others;
-- Willing to react or feedback; 
+- Willing to react or give feedback; 
 - In desperate need of something and no time to make it;
 - In desperate need of something and shy to share it;
 
