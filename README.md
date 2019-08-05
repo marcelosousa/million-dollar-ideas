@@ -19,7 +19,7 @@ So whether you are someone:
 - In desperate need of something and no time to make it;
 - In desperate need of something and shy to share it;
 
-**Create an issue with your idea** or **take a look and reach to issues** of this project! Bottom line, your +1 or -1 could make a big difference to someone else, specially if you provide some feedback!
+**Create an issue with your idea** or **take a look and react to issues** of this project! Bottom line: your +1 or -1 could make a big difference to someone else, specially if you provide some feedback!
 
 I created two simple templates for issues, one basic and another one more advanced based on this [blog post](https://www.defmacro.org/2019/03/26/startup-checklist.html). Still, if you find that they are not suitable, just create a regular issue with your format - share as much as you are willing to and comfortable with!
 
